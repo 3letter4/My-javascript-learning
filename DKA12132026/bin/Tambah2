@@ -1,0 +1,24 @@
+import java.util.Scanner;
+//cari hasil tambah 2 
+
+public class HasilTambah {
+    public static void main(String[] args) { 
+        Scanner input = new Scanner(System.in);
+        int nom1, nom2, jumlah;
+
+        System.out.println("=== TAMBAH NOMBOR ===");
+        System.out.print("Masukkan nombor 1: "); 
+        nom1 = input.nextInt();
+        
+        System.out.print("Masukkan nombor 2: ");
+        nom2 = input.nextInt();
+        
+        System.out.print("Masukkan nombor 3: ");
+        int nom3 = input.nextInt();
+
+        jumlah = nom1 + nom2 + nom3;
+        System.out.println("Jumlah hasil tambah: " + jumlah); 
+        
+        input.close(); 
+    }
+}
