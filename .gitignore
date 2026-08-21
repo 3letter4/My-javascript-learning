@@ -1,0 +1,42 @@
+```
+# Compiled Java files
+*.class
+
+# Dependencies
+lib/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+target/
+build/
+dist/
+
+# Python related (if any mixed projects)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node related (if any mixed projects)
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+```
