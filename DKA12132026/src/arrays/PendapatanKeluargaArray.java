@@ -1,5 +1,5 @@
 
-public class PendapatanKeluarga {
+public class PendapatanKeluargaArray {
     public static void main(String[] args) {
         int pendapatan[] = {10000,12000,15000,20000};
 

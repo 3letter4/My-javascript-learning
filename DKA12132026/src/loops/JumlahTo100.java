@@ -1,5 +1,5 @@
 
-public class to100 {
+public class JumlahTo100 {
     public static void main(String[] args){
         int jumlah = 0; 
 

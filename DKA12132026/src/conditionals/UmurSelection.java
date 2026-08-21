@@ -1,5 +1,5 @@
 import java.util.*;
-public class umur {
+public class UmurSelection {
     public static void main(String[] args) {
     Scanner input = new Scanner (System.in);
     

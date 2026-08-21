@@ -1,4 +1,4 @@
-public class Implicit {
+public class TypeCastingImplicit {
     public static void main (String[] args){
         double x; 
         int y = 3; 

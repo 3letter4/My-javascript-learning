@@ -1,4 +1,4 @@
-public class test { // Recommended: capitalized class name
+public class PrintMessage { // Recommended: capitalized class name
 
     public static void main(String[] args) {
         printMessage();

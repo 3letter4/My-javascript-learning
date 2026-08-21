@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class KuasaDua {
+public class KuasaDuaMethod {
 
     // Method accepts argument 'n' and RETURNS n squared (n * n)
     public static int kiraKuasaDua(int n) {

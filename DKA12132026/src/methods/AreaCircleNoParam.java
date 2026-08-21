@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class test2 { 
+public class AreaCircleNoParam { 
 
     public static void main(String[] args) {
         double result;

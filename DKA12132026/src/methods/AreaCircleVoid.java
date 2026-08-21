@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class test3 { 
+public class AreaCircleVoid { 
 
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {

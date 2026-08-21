@@ -1,4 +1,4 @@
-public class Explicit { 
+public class TypeCastingExplicit { 
     public static void main (String[] args){ 
         int nilai_tambah; 
         double buku = 300.40; 

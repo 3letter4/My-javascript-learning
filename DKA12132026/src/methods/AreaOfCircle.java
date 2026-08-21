@@ -1,5 +1,5 @@
     import java.util.*;
-    public class test4 {
+    public class AreaOfCircle {
 
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {

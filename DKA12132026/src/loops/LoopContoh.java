@@ -1,4 +1,4 @@
-public class loop {
+public class LoopContoh {
     public static void main (String[] args) {
         
         // Loop 1: Prints numbers from 1 to 6

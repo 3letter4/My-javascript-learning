@@ -1,5 +1,5 @@
 
-public class alattulis {
+public class AlatTulisArray {
     public static void main(String[] args) {
         double alatan[] = {1.00,2.00,1.50,0.50};
 

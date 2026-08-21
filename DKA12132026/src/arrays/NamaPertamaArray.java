@@ -1,5 +1,5 @@
 
-public class NamaPertama {
+public class NamaPertamaArray {
 
     public static void main(String[] args) {
         char nama[] = {'A','K','N','M','R','S'};

@@ -1,4 +1,4 @@
-public class CPGA {
+public class CgpaArray {
     public static void main(String[] args){
 
       	// Array Intialised and Assigned
